@@ -1,0 +1,2 @@
+# diplom
+GitHub Pages
